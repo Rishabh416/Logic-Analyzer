@@ -1,0 +1,8 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+A1,RaspberryPi_Pico_Common_THT,1,RaspberryPi_Pico,
+J1,PinHeader_1x10_P1.00mm_Vertical,1,Conn_01x10_Pin,
+"J2, J5",PinHeader_1x02_P1.00mm_Vertical,2,Conn_01x02_Pin,
+J3,"TerminalBlock_Phoenix_MKDS-1,5-4_1x04_P5.00mm_Horizontal",1,Screw_Terminal_01x04,
+J4,PinSocket_1x10_P1.00mm_Vertical,1,Conn_01x10_Pin,
+J6,PinSocket_1x02_P1.00mm_Vertical,1,Conn_01x02_Socket,
+J7,"TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal",1,Screw_Terminal_01x02,
